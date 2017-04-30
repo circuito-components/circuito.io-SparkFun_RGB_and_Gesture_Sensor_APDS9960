@@ -9,6 +9,7 @@
 // ======================= END OF INCLUDE BLOCK // =============================
 
 // =======================Pin Definitions - ONLY MODIFY PIN NUMBERS // =========
+#define RGBGESTURE_PIN_INT	2
 
 
 // =======================Pin Definitions // ===================================
